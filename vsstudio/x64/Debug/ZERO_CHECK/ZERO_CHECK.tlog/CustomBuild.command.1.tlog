@@ -1,0 +1,10 @@
+^C:\USERS\USER\PROJECTS\EMBEDDED-PYTHON\VSSTUDIO\CMAKEFILES\E5CDF2E460877E36D7CE38E3CF2EE031\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/Projects/embedded-python -BC:/Users/User/Projects/embedded-python/vsstudio --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/Projects/embedded-python/vsstudio/EmbeddedPython.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

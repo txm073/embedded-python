@@ -1,0 +1,5 @@
+C:/Users/User/Projects/embedded-python/vsstudio/CMakeFiles/pybind11module.dir
+C:/Users/User/Projects/embedded-python/vsstudio/CMakeFiles/pybind11app.dir
+C:/Users/User/Projects/embedded-python/vsstudio/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Projects/embedded-python/vsstudio/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/Projects/embedded-python/vsstudio/externals/pybind11/CMakeFiles/ALL_BUILD.dir

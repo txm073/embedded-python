@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/User/Projects/embedded-python/CMakeLists.txt
+  app.cpp
+     Creating library C:/Users/User/Projects/embedded-python/vsstudio/Debug/pybind11app.lib and object C:/Users/User/Projects/embedded-python/vsstudio/Debug/pybind11app.exp
+  pybind11app.vcxproj -> C:\Users\User\Projects\embedded-python\vsstudio\Debug\pybind11app.exe

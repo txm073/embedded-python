@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Projects\embedded-python\vsstudio\CMakeFiles\e5cdf2e460877e36d7ce38e3cf2ee031\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C4993043-86E1-3064-BF83-C724E5CA7B48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
